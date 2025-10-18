@@ -182,6 +182,6 @@
 		"eslint": "^7.32.0",
 		"glob": "^7.1.7",
 		"mocha": "^9.2.0",
-		"typescript": "^4.5.5"
+		"typescript": "^5.9.2"
 	}
 }
